@@ -40,15 +40,31 @@ Write a rebalance function which rebalances an unbalanced tree. Tip: You’ll wa
   </li>
 <ol>
 
+ 
 
-Tie it all together
+<h1>Tie it all together</h1>
 Write a simple driver script that does the following:
-
--Create a binary search tree from an array of random numbers. You can create a function that returns an array of random numbers every time you call it, if you wish.
--Confirm that the tree is balanced by calling isBalanced
--Print out all elements in level, pre, post, and in order
--Unbalance the tree by adding several numbers > 100
--Confirm that the tree is unbalanced by calling isBalanced
--Balance the tree by calling rebalance
--Confirm that the tree is balanced by calling isBalanced
--Print out all elements in level, pre, post, and in order
+<li>
+Create a binary search tree from an array of random numbers. You can create a function that returns an array of random numbers every time you call it, if you wish.
+</li>
+<li>
+Confirm that the tree is balanced by calling isBalanced
+</li>
+<li>
+Print out all elements in level, pre, post, and in order
+</li>
+<li>
+Unbalance the tree by adding several numbers > 100
+</li>
+<li>
+Confirm that the tree is unbalanced by calling isBalanced
+</li>
+<li>
+Balance the tree by calling rebalance
+</li>
+<li>
+Confirm that the tree is balanced by calling isBalanced
+</li>
+<li>
+Print out all elements in level, pre, post, and in order
+</li>
