@@ -1,7 +1,7 @@
 # Binary Search tree
 
 
-<h1>Assignment<h1>
+<h1>Assignment</h1>
 You’ll build a balanced BST in this assignment. Do not use duplicate values because they make it more complicated and result in trees that are much harder to balance. Therefore, be sure to always remove duplicate values or check for an existing value before inserting.
 
 <ol>
